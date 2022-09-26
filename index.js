@@ -1,1 +1,1 @@
-console.log("right@wenjl")
+console.log("a new day")
