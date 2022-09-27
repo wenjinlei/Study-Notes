@@ -2,5 +2,5 @@
 ## 1、TCP三次握手
 
 <center>
-<img src='./image/http1.svg'>
+<img src='./image/http1.png'>
 </center>
