@@ -2,5 +2,5 @@
 ## 1、TCP三次握手
 
 <center>
-<img src='https://raw.githubusercontent.com/wenjinlei/Study-Notes/master/image/http1.png'>
+<img src='https://raw.githubusercontent.com/wenjinlei/Study-Notes/master/image/http.svg'>
 </center>
